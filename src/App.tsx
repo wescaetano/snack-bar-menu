@@ -17,7 +17,7 @@ function App() {
     {
       name: "Hot Dog Duplo",
       description: "pão, maionese, vinagrete, duas salsichas, batata, ketchup e mostarda",
-      price: 10.00
+      price: 11.00
     },
     {
       name: "Hot Dog Catupiry",
@@ -115,7 +115,7 @@ function App() {
     {
       name: "X-Tudo",
       description: "Pão, maionese, tomate, bacon, calabresa, churrasco, lombo, frango, hambúrguer, ovo, alface e queijo",
-      price: 25.90
+      price: 28.00
     },
     
   ];
